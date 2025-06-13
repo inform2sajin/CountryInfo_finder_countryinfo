@@ -22,4 +22,4 @@ pip install country info
 
 💡 Example Output
 ================================
-![Country Info image](countryInfoScreenshot.png)
+![Country Info image](countryInfoScreenshot2.png)
