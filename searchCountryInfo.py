@@ -11,7 +11,7 @@ try:
     info = country.info()
     
     # Display the country details
-    print(f"\n🌍 Your entered: {country_name.title()}\n📍 Here are the details.")
+    print(f"\n🌍 You entered: {country_name.title()}\n📍 Here are the details.")
     print("🏛️ Capital: ",info.get("capital", "Not available"))
     print("💱 Currency: ",info.get("currencies", "Not available"))
     print("🗣️ Language(s): ",info.get("languages", "Not available"))
