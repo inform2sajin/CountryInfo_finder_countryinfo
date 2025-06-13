@@ -17,7 +17,8 @@
 ================================
 1. Install the required package:
 
-  pip install country info
+ 
+ 📥 pip install country info
 
 
 💡 Example Output
